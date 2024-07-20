@@ -13,11 +13,11 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-['51979901365', '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
-['51906662557', '𝙊𝙬𝙣𝙚𝙧', true],  
-['5217442363122', '𝑖𝑍𝑖', true],
-['59175655964', 'Alba070503', false],
-['56974513824']]
+['50370536621', '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
+['+50375829403', '𝙊𝙬𝙣𝙚𝙧', true],  
+['+50370536621', '𝑖𝑍𝑖', true],
+['+50375829403', 'Alba070503', false],
+['+50370536621']]
 
 global.mods = []
 global.prems = []
@@ -115,12 +115,12 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["519066625579", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
-["5217442363122", '𝑖𝑍𝑖 👻', 1],  
-["5493513446678", 'Martin Batman', 1],
-["5218771647787", 'IssSG', 1],
-["51948273587", 'Katashi Two', 1],
-["5492964650915", '♥️🎩⚠︎    シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎   ⚠︎🎩♥️', 1]]
+["50375829403", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
+["+50375829403", '𝑖𝑍𝑖 👻', 1],  
+["+50375829403", 'Martin Batman', 1],
+["50375829403", 'IssSG', 1],
+["+50375829403", 'Katashi Two', 1],
+["+50370536621", '♥️🎩⚠︎    シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎   ⚠︎🎩♥️', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -447,18 +447,18 @@ global.asistencia = others.assistance_num
 global.bot = 'wa.me/51948273587'
 global.cuentas = accounts.all
 
-global.canal1 = channels.channel1
-global.canal2 = channels.channel2
+global.canal1 = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" channels.channel1
+global.canal2 = " https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" channels.channel2
 global.canal3 = channels.channel3
 global.canal4 = channels.channel4
 
 global.soporteGB = others.group_support
-global.grupo1 = groups.group1
-global.grupo2 = groups.group2
-global.grupo3 = groups.group3
-global.grupo4 = groups.group4
-global.grupo5 = groups.group5
-global.grupo6 = groups.group6
+global.grupo1 = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" groups.group1
+global.grupo2 = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" groups.group2
+global.grupo3 = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" groups.group3
+global.grupo4 = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" groups.group4
+global.grupo5 = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" groups.group5
+global.grupo6 = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" groups.group6
 
 global.grupo_collab1 = collaboration.group1
 global.grupo_collab2 = collaboration.group2
